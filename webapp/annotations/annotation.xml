@@ -37,7 +37,7 @@
                             <PropertyValue Property="Value" Path="CategoryID"/>
                             <PropertyValue Property="Label" String="Category ID"/>
                         </Record>
-                        <Record Type="UI.DataField">
+                        <Record Type="UI.DataField">ilter
                             <PropertyValue Property="Value" Path="Category/CategoryName"/>
                             <PropertyValue Property="Label" String="Category Name"/>
                         </Record>
